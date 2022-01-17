@@ -1,2 +1,2 @@
 # learning-git
-This repo was used to lear git for new bees.
+This repo was used to learn git for new bees.
